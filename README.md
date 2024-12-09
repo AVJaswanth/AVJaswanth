@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AVJaswanth
+- 👋 Hi, I’m @AVJaswanthReddy
 - 👀 I’m interested in business management
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Python
 
 <!---
 AVJaswanth/AVJaswanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
